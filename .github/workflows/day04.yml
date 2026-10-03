@@ -1,6 +1,6 @@
 name: Day 4 GitHub Actions
 
-on:
+"on":
   push:
     branches:
       - main
@@ -8,17 +8,11 @@ on:
 
 jobs:
   learning:
-  runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
-steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
+    steps:
       - name: Say hello
         run: echo "Hello from Day 4!"
 
-      - name: Show repository
-        run: echo "Repository: ${{ github.repository }}"
-
-      - name: Show branch
-        run: echo "Branch: ${{ github.ref }}"
+      - name: Show success
+        run: echo "GitHub Actions is working!"
