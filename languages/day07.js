@@ -1,0 +1,1 @@
+console.log("GitHub Language Diversity - JavaScript");
