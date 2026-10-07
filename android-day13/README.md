@@ -1,3 +1,11 @@
 # Android Day 13 - Notes App
 
-Kotlin Android Notes App with local storage.
+A simple Android Notes App concept built with Kotlin.
+
+## Features
+
+- Add notes
+- Delete notes
+- List notes
+- Kotlin collections
+- Basic Android application structure
