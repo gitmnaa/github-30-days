@@ -1,3 +1,3 @@
 # Collaboration
 
-Collaborative contribution for Day 21 Android Calculator.
+This contribution was made as part of the Day 21 collaboration.
